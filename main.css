@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(34, 32, 32);
+}
+
+.spacer{
+    height: 50px;
+}
+
+.first{
+    height: 50px;
+    margin: 0;
+    padding: 20px 12px 20px 12px;
+}
+
+.second{
+    height: 50px;
+    margin: 0;
+    padding: 20px 12px 20px 0px;
+}
+
+.third{
+    height: 50px;
+    margin: 0;
+    padding: 20px 12px 20px 0px;
+}
+
+.fourth{
+    height: 50px;
+    margin: 0;
+    padding: 20px 12px 20px 0px;  
+}
+
+.fifth{
+    height: 50px;
+    margin: 0;
+    padding: 20px 12px 20px 0px;
+}
+
+.form-check{
+  margin-top: 30px;
+ margin-left: 12px;
+}
+
+.button{
+   margin-top: 20px;
+}
+
+.btn.btn-primary{
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.text{
+    margin: 0;
+    text-align: center;
+    color: rgb(255, 255, 255);
+}   
